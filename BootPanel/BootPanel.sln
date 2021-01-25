@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BootPanel", "BootPanel\BootPanel.csproj", "{EA29A7F2-CEC8-4568-BA7A-243C2F211D97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA29A7F2-CEC8-4568-BA7A-243C2F211D97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA29A7F2-CEC8-4568-BA7A-243C2F211D97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA29A7F2-CEC8-4568-BA7A-243C2F211D97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA29A7F2-CEC8-4568-BA7A-243C2F211D97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59CC94E2-B210-4A04-AED0-44C03A5134D4}
+	EndGlobalSection
+EndGlobal
